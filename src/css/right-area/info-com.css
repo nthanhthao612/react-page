@@ -1,0 +1,4 @@
+.info-com{
+    display: flex;
+    flex-direction: column;
+}

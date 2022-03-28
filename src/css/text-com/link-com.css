@@ -1,0 +1,30 @@
+.link-text{
+    text-decoration: none;
+}
+.link-label{
+    text-transform: uppercase;
+}
+.font-arial-narrow{
+    font-family: 'Arial Narrow', sans-serif;
+}
+.font-roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.font-courier{
+    font-family: 'Courier new', sans-serif;
+}
+.size-md{
+    font-size: 150%;
+    font-weight: bold;
+}
+.size-sm{
+    font-size: 120%;
+    font-weight: bold;
+}
+.size-lg{
+    font-size: 200%;
+    font-weight: bold;
+}
+.mouse-click:active{
+    text-decoration: underline;
+}

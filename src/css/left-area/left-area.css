@@ -1,0 +1,7 @@
+.left-area{
+    display: flex;
+    flex-direction: column;
+    margin: 5px 0px 0px 5px;
+    border-radius: 30px;
+    width: 25%;
+}

@@ -1,0 +1,7 @@
+.right-area{
+    width: 75%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    float:right;
+}

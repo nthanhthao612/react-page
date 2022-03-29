@@ -10,9 +10,9 @@ function RightArea() {
     return (<Router>
         <div className="right-area">
             <FunctionalMenu />
-            <Route path="/info" exact component={InfoCom} />
-            <Route path="/education" exact component={EducationCom} />
-            <Route path="/products" exact component={ProductsCom} />
+            <Route path="/react-page/info" exact component={InfoCom} />
+            <Route path="/react-page/education" exact component={EducationCom} />
+            <Route path="/react-page/products" exact component={ProductsCom} />
         </div>
     </Router>);
 }
